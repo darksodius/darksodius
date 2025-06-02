@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning **Tailwind CSS, Java Script, and Laravel Framework**
-- ![DARKSODIUS](imG/leao-rafael.gif)
+- ![DARKSODIUS](img/leao-rafael.gif)
 
