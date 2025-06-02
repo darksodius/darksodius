@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning T**ailwin CSS, Java Script, and Laravel Framework**
-  
-  ![DARKSODIUS](imG/leao-rafael.gif)
+- 🌱 I’m currently learning **Tailwind CSS, Java Script, and Laravel Framework**
+- ![DARKSODIUS](imG/leao-rafael.gif)
 
-  
