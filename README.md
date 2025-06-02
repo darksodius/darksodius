@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning T**ailwin CSS, Java Script, and Laravel Framework**
-- 😁😁😁😁😁
-- ![alt text](image.png)
-- 
+  
+  ![DARKSODIUS](imG/leao-rafael.gif)
+
+  
